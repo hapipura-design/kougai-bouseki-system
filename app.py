@@ -12,7 +12,11 @@ import io
 st.set_page_config(
     page_title="公害防止管理者 申請書作成システム",
     page_icon="🏭",
-    layout="wide"
+    layout="wide",
+    menu_items={
+        'Get Help': None,
+        'Report a bug': None,
+        'About': None
 )
 
 # システムクラス
