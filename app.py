@@ -17,6 +17,7 @@ st.set_page_config(
         'Get Help': None,
         'Report a bug': None,
         'About': None
+    }
 )
 
 # システムクラス
